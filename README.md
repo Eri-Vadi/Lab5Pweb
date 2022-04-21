@@ -27,6 +27,7 @@ User same was add and to MongoDB
 ### Delete user
 ![codeDeleteuser](images/codeDeleteuser.png)
 ![workingdeleteuser](images/workingdeleteuser.png)
+Delete and from DB
 ![deletefromDB](images/deletefromDB.png)
 
 ### Use tokins for security
