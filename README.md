@@ -8,29 +8,29 @@ Here's an image of how use user name as Unique identifier and If usser.js work g
 
 ### Working account create
 After http://LocalHost:5000/user/everyEndPoint ---> go insaid user.js Method: Post can see JS as a type
-![RegisterWorking](RegisterWorking.png)
+![RegisterWorking](images/RegisterWorking.png)
 
 ### MongoDB
 Start MongoDB
-![MongoDBConnect](MongoDBConnect.png)
+![MongoDBConnect](images/MongoDBConnect.png)
 Will Decode a JS date
-![Decodejsformongo](Decodejsformongo.png)
+![Decodejsformongo](images/Decodejsformongo.png)
 User same was add and to MongoDB
-![AddUserMongo](AddUserMongo.png)
+![AddUserMongo](images/AddUserMongo.png)
 
 ### Password change
-![codechangepass](codechangepass.png)
-![workingchangepass](workingchangepass.png)
-![changeandDB](changeandDB.png)
+![codechangepass](images/codechangepass.png)
+![workingchangepass](images/workingchangepass.png)
+![changeandDB](images/changeandDB.png)
 
 ### Delete user
-![codeDeleteuser](codeDeleteuser.png)
-![workingdeleteuser](workingdeleteuser.png)
-![deletefromDB](deletefromDB.png)
+![codeDeleteuser](images/codeDeleteuser.png)
+![workingdeleteuser](images/workingdeleteuser.png)
+![deletefromDB](images/deletefromDB.png)
 
 ### Use tokins for security
 Add middleware to delete and passChange for validation with tokens.
-![Tokensecurity](Tokensecurity.png)
-![TokeWeGet](TokeWeGet.png)
+![Tokensecurity](images/Tokensecurity.png)
+![TokeWeGet](images/TokeWeGet.png)
 
 ### About post something can faind in fail: blogpost.js :)
