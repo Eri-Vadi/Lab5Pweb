@@ -3,8 +3,9 @@
 
 Here's an image of how use user name as Unique identifier and If usser.js work get result 200:
 
-![Unique identifier](UsserNameUniqueWorkLikeIdfromSQL.png)
-![Working check](CodeCheckUserWorkingorNo.png)
+![Unique identifier](images/UsserNameUniqueWorkLikeIdfromSQL.png)
+
+![Working check](images/CodeCheckUserWorkingorNo.png)
 
 ### Working account create
 After http://LocalHost:5000/user/everyEndPoint ---> go insaid user.js Method: Post can see JS as a type
