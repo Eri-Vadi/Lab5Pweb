@@ -38,3 +38,4 @@ Add middleware to delete and passChange for validation with tokens.
 ![TokeWeGet](images/TokeWeGet.png)
 
 ### About post something can faind in fail: blogpost.js :)
+![Blog](images/Blog.png)
